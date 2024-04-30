@@ -1,0 +1,100 @@
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 0
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 0
+sbatch chatgpt_short_prompt.sbatch Indian international_student 0
+sbatch chatgpt_short_prompt.sbatch Indian employee 0
+sbatch chatgpt_short_prompt.sbatch American international_student 0
+sbatch chatgpt_short_prompt.sbatch American employee 0
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 0
+sbatch chatgpt_short_prompt.sbatch Mexican employee 0
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 0
+sbatch chatgpt_short_prompt.sbatch South Korean employee 0
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 1
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 1
+sbatch chatgpt_short_prompt.sbatch Indian international_student 1
+sbatch chatgpt_short_prompt.sbatch Indian employee 1
+sbatch chatgpt_short_prompt.sbatch American international_student 1
+sbatch chatgpt_short_prompt.sbatch American employee 1
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 1
+sbatch chatgpt_short_prompt.sbatch Mexican employee 1
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 1
+sbatch chatgpt_short_prompt.sbatch South Korean employee 1
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 2
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 2
+sbatch chatgpt_short_prompt.sbatch Indian international_student 2
+sbatch chatgpt_short_prompt.sbatch Indian employee 2
+sbatch chatgpt_short_prompt.sbatch American international_student 2
+sbatch chatgpt_short_prompt.sbatch American employee 2
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 2
+sbatch chatgpt_short_prompt.sbatch Mexican employee 2
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 2
+sbatch chatgpt_short_prompt.sbatch South Korean employee 2
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 3
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 3
+sbatch chatgpt_short_prompt.sbatch Indian international_student 3
+sbatch chatgpt_short_prompt.sbatch Indian employee 3
+sbatch chatgpt_short_prompt.sbatch American international_student 3
+sbatch chatgpt_short_prompt.sbatch American employee 3
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 3
+sbatch chatgpt_short_prompt.sbatch Mexican employee 3
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 3
+sbatch chatgpt_short_prompt.sbatch South Korean employee 3
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 4
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 4
+sbatch chatgpt_short_prompt.sbatch Indian international_student 4
+sbatch chatgpt_short_prompt.sbatch Indian employee 4
+sbatch chatgpt_short_prompt.sbatch American international_student 4
+sbatch chatgpt_short_prompt.sbatch American employee 4
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 4
+sbatch chatgpt_short_prompt.sbatch Mexican employee 4
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 4
+sbatch chatgpt_short_prompt.sbatch South Korean employee 4
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 5
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 5
+sbatch chatgpt_short_prompt.sbatch Indian international_student 5
+sbatch chatgpt_short_prompt.sbatch Indian employee 5
+sbatch chatgpt_short_prompt.sbatch American international_student 5
+sbatch chatgpt_short_prompt.sbatch American employee 5
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 5
+sbatch chatgpt_short_prompt.sbatch Mexican employee 5
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 5
+sbatch chatgpt_short_prompt.sbatch South Korean employee 5
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 6
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 6
+sbatch chatgpt_short_prompt.sbatch Indian international_student 6
+sbatch chatgpt_short_prompt.sbatch Indian employee 6
+sbatch chatgpt_short_prompt.sbatch American international_student 6
+sbatch chatgpt_short_prompt.sbatch American employee 6
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 6
+sbatch chatgpt_short_prompt.sbatch Mexican employee 6
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 6
+sbatch chatgpt_short_prompt.sbatch South Korean employee 6
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 7
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 7
+sbatch chatgpt_short_prompt.sbatch Indian international_student 7
+sbatch chatgpt_short_prompt.sbatch Indian employee 7
+sbatch chatgpt_short_prompt.sbatch American international_student 7
+sbatch chatgpt_short_prompt.sbatch American employee 7
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 7
+sbatch chatgpt_short_prompt.sbatch Mexican employee 7
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 7
+sbatch chatgpt_short_prompt.sbatch South Korean employee 7
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 8
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 8
+sbatch chatgpt_short_prompt.sbatch Indian international_student 8
+sbatch chatgpt_short_prompt.sbatch Indian employee 8
+sbatch chatgpt_short_prompt.sbatch American international_student 8
+sbatch chatgpt_short_prompt.sbatch American employee 8
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 8
+sbatch chatgpt_short_prompt.sbatch Mexican employee 8
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 8
+sbatch chatgpt_short_prompt.sbatch South Korean employee 8
+sbatch chatgpt_short_prompt.sbatch Bangladeshi international_student 9
+sbatch chatgpt_short_prompt.sbatch Bangladeshi employee 9
+sbatch chatgpt_short_prompt.sbatch Indian international_student 9
+sbatch chatgpt_short_prompt.sbatch Indian employee 9
+sbatch chatgpt_short_prompt.sbatch American international_student 9
+sbatch chatgpt_short_prompt.sbatch American employee 9
+sbatch chatgpt_short_prompt.sbatch Mexican international_student 9
+sbatch chatgpt_short_prompt.sbatch Mexican employee 9
+sbatch chatgpt_short_prompt.sbatch South Korean international_student 9
+sbatch chatgpt_short_prompt.sbatch South Korean employee 9
